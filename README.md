@@ -4,4 +4,4 @@
 _I constructed this project with personal improvement in mind; it would be beneficial to both me and others to develop something that can be used by someone._
 
 ## **Description**
-_I have first built a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. Second step would be to write a python flask server that uses the saved model to serve http requests. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price._
+_First, I created a model with sklearn and linear regression using the Bangalore home prices dataset from kaggle.com. The second step would be to create a Python Flask server that serves http requests using the stored model. The third component is a website developed in html, CSS, and javascript that allows users to enter information such as home square footage, bedrooms, and so on, and then calls a Python Flask server to receive the anticipated price._
